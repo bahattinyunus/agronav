@@ -1,0 +1,14 @@
+torch==1.13.1
+torchvision==0.14.1
+torchaudio==0.13.1
+mmcv-full==1.7.1
+numpy
+scipy
+scikit-image
+tqdm
+pqdm
+opencv-python
+pyyaml
+POT
+pudb
+mmsegmentation @ git+https://github.com/open-mmlab/mmsegmentation.git
